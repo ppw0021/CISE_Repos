@@ -10,8 +10,8 @@ function App() {
           Sugma nuts
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          className="AUT"
+          href="https://aut.ac.nz"
           target="_blank"
           rel="noopener noreferrer"
         >
